@@ -32,9 +32,7 @@ O conjunto de dados inclui:
 **Acesso:** Download direto pelo Kaggle
 
 ## 📊 Dashboard Interativo (Looker Studio)
-[Clique aqui para visualizar o painel completo]((https://lookerstudio.google.com/reporting/e7d106c9-0451-4bf7-bb69-27f773bd46ac))
-
-
+[Clique aqui para visualizar o painel completo](https://lookerstudio.google.com/reporting/e7d106c9-0451-4bf7-bb69-27f773bd46ac)
 ---
 
 ## 🧩 Metodologia

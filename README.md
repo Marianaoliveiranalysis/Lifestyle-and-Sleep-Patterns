@@ -95,7 +95,7 @@ Mariana Rodrigues de Oliveira
 
 **Contato:**  
 📧 mariannarodrigues.0402@gmal.com  
-🔗 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/mariana-oliveira-analistadedados/))
+🔗 [LinkedIn][https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/mariana-oliveira-analistadedados/)
 
 ---
 
